@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Teclado Mecânico",
+      "description": "Teclado gamer RGB",
+      "quantity": 10,
+      "photo": "https://images.tcdn.com.br/img/img_prod/745260/teclado_gamer_semi_mecanico_led_rgb_abnt2_usb_pc_ps4_xbox_67_1_d5520f952b2ee293ee340c520427101e.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mouse Sem Fio",
+      "description": "Mouse bluetooth",
+      "quantity": 5,
+      "photo": "https://m.media-amazon.com/images/I/519ZCyGRgZL.jpg"
+    }
+  ]
+  
